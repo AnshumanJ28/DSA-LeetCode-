@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0075-sort-colors) |
+| [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0036-valid-sudoku) |
+| [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

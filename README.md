@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->

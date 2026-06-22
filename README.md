@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -38,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

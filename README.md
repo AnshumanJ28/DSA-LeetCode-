@@ -95,4 +95,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

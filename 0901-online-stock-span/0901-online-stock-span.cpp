@@ -14,5 +14,5 @@ public:
     }
 
 private:
-    stack<std::pair<int, int>> prices; 
+    stack<pair<int, int>> prices; 
 };

@@ -6,13 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->

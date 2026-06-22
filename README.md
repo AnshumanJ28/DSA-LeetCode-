@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+| [2683-neighboring-bitwise-xor](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2683-neighboring-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2683-neighboring-bitwise-xor](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2683-neighboring-bitwise-xor) |
 <!---LeetCode Topics End-->

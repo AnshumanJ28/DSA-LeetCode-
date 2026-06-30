@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0071-simplify-path) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
 ## Simulation
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0071-simplify-path) |
 | [0901-online-stock-span](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0901-online-stock-span) |
 ## Design
 |  |

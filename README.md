@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2683-neighboring-bitwise-xor](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2683-neighboring-bitwise-xor) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0036-valid-sudoku) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -124,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->

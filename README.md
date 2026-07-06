@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0071-simplify-path) |
+| [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
 ## Simulation
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
+| [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -75,15 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting
@@ -163,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0148-sort-list) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->

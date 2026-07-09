@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0071-simplify-path) |
+| [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0146-lru-cache) |
+| [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
 ## Array
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2683-neighboring-bitwise-xor](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2683-neighboring-bitwise-xor) |
 ## Brainteaser
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -209,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0382-linked-list-random-node) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->

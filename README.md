@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
+| [0382-linked-list-random-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 ## Sliding Window
 |  |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0146-lru-cache) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->

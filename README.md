@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0071-simplify-path) |
+| [0151-reverse-words-in-a-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0202-happy-number) |
 ## Sorting
 |  |

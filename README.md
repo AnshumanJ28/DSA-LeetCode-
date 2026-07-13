@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |

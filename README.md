@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0901-online-stock-span](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0901-online-stock-span) |
 ## Design
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |

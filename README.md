@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
+| [0284-peeking-iterator](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0284-peeking-iterator) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0622-design-circular-queue](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0622-design-circular-queue) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0225-implement-stack-using-queues) |
+| [0284-peeking-iterator](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0284-peeking-iterator) |
 | [0622-design-circular-queue](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0706-design-hashmap) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->

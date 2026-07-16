@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0541-reverse-string-ii) |
+| [1286-iterator-for-combination](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1286-iterator-for-combination) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
 ## Simulation
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0046-permutations) |
+| [1286-iterator-for-combination](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1286-iterator-for-combination) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0901-online-stock-span) |
+| [1286-iterator-for-combination](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1286-iterator-for-combination) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -312,4 +315,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0284-peeking-iterator](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0341-flatten-nested-list-iterator) |
+| [1286-iterator-for-combination](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->

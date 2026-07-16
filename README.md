@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0705-design-hashset](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0706-design-hashmap) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0622-design-circular-queue](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0706-design-hashmap) |
 | [0832-flipping-an-image](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0832-flipping-an-image) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0706-design-hashmap) |
 ## Sliding Window
 |  |
 | ------- |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0706-design-hashmap) |
 ## Tree
 |  |
 | ------- |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0541-reverse-string-ii) |
+| [0942-di-string-match](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1286-iterator-for-combination](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1286-iterator-for-combination) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0706-design-hashmap) |
 | [0832-flipping-an-image](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0942-di-string-match) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0942-di-string-match) |
 ## Sorting
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
+| [0942-di-string-match](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Doubly-Linked List

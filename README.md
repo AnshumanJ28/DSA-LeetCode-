@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0202-happy-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
 | [0338-counting-bits](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0338-counting-bits) |

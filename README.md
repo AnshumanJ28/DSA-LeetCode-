@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
+| [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Prefix Sum
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
+| [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Stack
 |  |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0341-flatten-nested-list-iterator) |
 | [1286-iterator-for-combination](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1286-iterator-for-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

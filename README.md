@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1286-iterator-for-combination](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1286-iterator-for-combination) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
 | ------- |
@@ -365,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->

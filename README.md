@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -425,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0692-top-k-frequent-words) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->

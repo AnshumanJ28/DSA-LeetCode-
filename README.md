@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0174-dungeon-game) |
 | [0217-contains-duplicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
 | [0284-peeking-iterator](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0284-peeking-iterator) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Backtracking
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
+| [0220-contains-duplicate-iii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -379,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3474-lexicographically-smallest-generated-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->

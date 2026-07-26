@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [0622-design-circular-queue](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0706-design-hashmap) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0912-sort-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |

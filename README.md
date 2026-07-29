@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0706-design-hashmap) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -451,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->

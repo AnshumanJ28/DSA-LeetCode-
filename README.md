@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0382-linked-list-random-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0692-top-k-frequent-words) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0174-dungeon-game) |
+| [0264-ugly-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0912-sort-an-array) |

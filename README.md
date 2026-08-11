@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0046-permutations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [1286-iterator-for-combination](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1286-iterator-for-combination) |
 ## Matrix
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0264-ugly-number-ii) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Number Theory
 |  |

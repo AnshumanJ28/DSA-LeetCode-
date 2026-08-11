@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0343-integer-break) |
 | [0382-linked-list-random-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
+| [0553-optimal-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0474-ones-and-zeroes) |
+| [0553-optimal-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0553-optimal-division) |
 | [0622-design-circular-queue](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0692-top-k-frequent-words) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
+| [0553-optimal-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0553-optimal-division) |
 | [0877-stone-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |

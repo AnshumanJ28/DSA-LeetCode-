@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1286-iterator-for-combination](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1286-iterator-for-combination) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2683-neighboring-bitwise-xor](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2683-neighboring-bitwise-xor) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0220-contains-duplicate-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Radix Sort
 |  |
 | ------- |
@@ -502,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0474-ones-and-zeroes) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->

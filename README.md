@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0343-integer-break](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0343-integer-break) |
 | [0382-linked-list-random-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0382-linked-list-random-node) |
+| [0396-rotate-function](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0553-optimal-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
 | [0284-peeking-iterator](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0284-peeking-iterator) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0474-ones-and-zeroes) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0516-longest-palindromic-subsequence) |

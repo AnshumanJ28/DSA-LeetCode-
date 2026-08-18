@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2029-stone-game-ix) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1563-stone-game-v](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1563-stone-game-v) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2029-stone-game-ix) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1563-stone-game-v](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |

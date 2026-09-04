@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0137-single-number-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0164-maximum-gap) |
@@ -536,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

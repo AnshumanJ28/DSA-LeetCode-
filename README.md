@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
 | [0284-peeking-iterator](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0284-peeking-iterator) |
+| [0322-coin-change](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0322-coin-change](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [1267-count-servers-that-communicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1267-count-servers-that-communicate) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0392-is-subsequence) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
@@ -542,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0056-merge-intervals) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

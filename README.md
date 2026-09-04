@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0264-ugly-number-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0174-dungeon-game) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Knapsack Problem
 |  |

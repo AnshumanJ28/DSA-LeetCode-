@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0474-ones-and-zeroes) |
 | [0553-optimal-division](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0553-optimal-division) |
 | [0622-design-circular-queue](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0622-design-circular-queue) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0912-sort-an-array) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0942-di-string-match](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |

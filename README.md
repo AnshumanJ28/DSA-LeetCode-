@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0152-maximum-product-subarray](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0338-counting-bits) |

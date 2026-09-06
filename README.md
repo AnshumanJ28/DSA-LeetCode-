@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [2381-shifting-letters-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2381-shifting-letters-ii) |
 ## Dynamic Programming
@@ -350,11 +352,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnshumanJ28/DSA-LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
